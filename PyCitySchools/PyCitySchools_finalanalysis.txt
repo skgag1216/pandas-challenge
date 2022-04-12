@@ -1,0 +1,19 @@
+""""
+Analysis:
+I'm basing my final analysis of the school data on the last 3 dataframes where school spending per student, size, and type
+were compared to the average of the students' grades.
+First the dataframe comparing school spending per student and students' average grade performance - 
+This particular dataframe has output that is the opposite of what I predicted.
+As far as spending per student, according to the data the more money 
+spent per student the lower the outcome of the grades. Schools spending less per student capita were performing better. 
+This raises questions for the schools that are spending more per student. Where is the money going - is it being allocated to
+the correct places for the students' benefit? Do measures need to be put in place to track this higher spending? Or do the 
+schools that are spending more have a larger gap to get their students to a higher grade performance? 
+Next, according to the dataframes for school size and grade performance - smaller schools are performing better. This is in
+line with my predictions. Smaller schools can allocate more resources, time, and teachers per student. In turn the students
+grade performance is higher. The larger schools probably do not have as many staff per student and resources and money are
+stretched thinner to encompass a higher number of students.
+Lastly, charter schools are performing better than the district schools. This raises questions that can be explored through
+possibly creating more dataframes. Are the charter schools smaller than the district schools? Do the charter schools have a 
+higher budget than the district schools?
+"""""
